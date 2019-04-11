@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/kube-state-metrics-amd64
+FROM gcr.io/google-containers/kube-state-metrics-amd64:v1.3.1
